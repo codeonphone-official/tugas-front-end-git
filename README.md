@@ -1,3 +1,2 @@
-Nama :
-
-Kelas : Front End / Back End
+Nama : Muhammad Nur Cholis
+Kelas : Front End
