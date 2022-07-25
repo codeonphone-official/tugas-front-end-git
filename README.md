@@ -1,2 +1,2 @@
 Nama : Ahmad Habibi
-kelas : Front End
+Kelas : Front End
