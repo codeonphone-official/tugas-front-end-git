@@ -1,3 +1,3 @@
-Nama :
+Nama : Teguh Sabila
 
-Kelas : Front End / Back End
+Kelas : Front End
