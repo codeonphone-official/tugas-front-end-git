@@ -1,2 +1,3 @@
 Nama :
-Kelas :
+
+Kelas : Front End / Back End
